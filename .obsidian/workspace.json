@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65c386e9a0442966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2020-03-01-whats-jekyll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "972fdfc9268fc50d",
             "type": "leaf",
             "state": {
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-01-whats-jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-03-01-whats-jekyll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2020-03-01-whats-jekyll.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,9 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "65c386e9a0442966",
+  "active": "972fdfc9268fc50d",
   "lastOpenFiles": [
-    "_posts/welcome.md",
-    "_posts/2020-03-01-whats-jekyll.md"
+    "_posts/2020-03-01-whats-jekyll.md",
+    "_posts/test.md",
+    "_posts/welcome.md"
   ]
 }
