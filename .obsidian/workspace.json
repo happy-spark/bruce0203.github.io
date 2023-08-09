@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "972fdfc9268fc50d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,6 +154,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d2c9cb61fb3ebc6",
-  "lastOpenFiles": []
+  "active": "65c386e9a0442966",
+  "lastOpenFiles": [
+    "_posts/2020-03-01-whats-jekyll.md"
+  ]
 }
